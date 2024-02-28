@@ -1,0 +1,3 @@
+displayName = Hostile Paradise
+author = meowmeow
+version = 0.1
